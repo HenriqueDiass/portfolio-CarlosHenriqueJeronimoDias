@@ -2,7 +2,7 @@
 
 Este projeto é um portfólio pessoal e acadêmico desenvolvido como parte das atividades práticas do curso de **Sistemas de Informação**. O site foi construído com foco em design responsivo e arquitetura CSS limpa, apresentando trajetórias acadêmicas, habilidades técnicas e projetos de forma profissional.
 
-## 👥 Integrantes (Dupla)
+## Aluno
 * **Carlos Henrique** 
 
 ## 📝 Descrição do Projeto
