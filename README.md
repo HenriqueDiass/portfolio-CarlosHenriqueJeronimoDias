@@ -27,15 +27,14 @@ Para visualizar o projeto na sua máquina, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone https://github.com/HenriqueDiass/portfolio-CarlosHenriqueJeronimoDias.git
     ```
 2.  **Acesse a pasta do projeto:**
     ```bash
-    cd nome-do-repositorio
+    cd portfolio-CarlosHenriqueJeronimoDias
     ```
 3.  **Abra o arquivo principal:**
     * Localize o arquivo `index.html` na raiz da pasta e abra-o com o seu navegador (Chrome, Firefox, Edge, etc.).
-    * **Dica:** Se estiver utilizando o VS Code, recomendo usar a extensão **Live Server** para visualizar as alterações em tempo real.
 
 ---
 *Projeto desenvolvido para fins acadêmicos - 2026*
